@@ -1,0 +1,9 @@
+@media screen and (max-width: 325px) {
+   *{
+    background-image: url(./e5b8785c257af2a7f354f1addaf37e4e1647364814.avif);
+   } 
+   zomato{
+    text-align: center;
+    margin-top: -25px;
+   }
+}
